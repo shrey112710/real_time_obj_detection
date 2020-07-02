@@ -1,4 +1,4 @@
-modes tried :
+models tried :
 
 >logistic regression : 92%
 >svm : 95%
