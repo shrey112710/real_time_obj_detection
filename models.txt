@@ -3,3 +3,7 @@ models tried :
 >logistic regression : 92%
 >svm : 95%
 >cnn : 96%
+
+TODO > optimize cnn model by tuning it's hperparameter
+     > use Tflite to develop the app
+     > Deployment of the app
