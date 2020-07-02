@@ -1,0 +1,5 @@
+modes tried :
+
+>logistic regression : 92%
+>svm : 95%
+>cnn : 96%
